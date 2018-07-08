@@ -1,2 +1,2 @@
 # Riego
-React Native App to control sprinklers over sms witrh SIM800l
+React Native App to control sprinklers over sms with SIM800l
