@@ -28,7 +28,7 @@ class Hub extends Component {
       body = '{GetValues}';
     }
     console.log(body);
-    textWithoutEncoding('8711499240', body);
+    textWithoutEncoding('8714117239', body);
   }
   renderAreas() {
     const buttons = ['OFF', 'ON'];
