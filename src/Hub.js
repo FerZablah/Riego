@@ -25,7 +25,7 @@ class Hub extends Component {
     if (type === 'set') {
       body = JSON.stringify(this.state);
     } else {
-      body = 'GetValues';
+      body = '{GetValues}';
     }
     console.log(body);
     textWithoutEncoding('8711499240', body);
